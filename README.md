@@ -54,10 +54,10 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>Turinys</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">Įvadas</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
