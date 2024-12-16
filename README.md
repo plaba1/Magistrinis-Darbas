@@ -65,6 +65,8 @@
 
 Šis darbas yra Programų sistemų inžinerijos kurso Magistrinis darbas. Šio darbo tikslas yra sukurti sistemą gebančią atpažinti žmogaus emociją. Šiuo atveju magistrinio darbo tema dar nėra labai tiksliai suformuluota, tačiau galima numatyti gan aiškią temos kryptį. Apibendrinus magistrinio darbo tema skambėtų taip: „Emocijų atpažinimas naudojant dirbtinio intelekto metodus“.
 
+This Page is for Master's thesis at Program system engineering studies. The main goal of this work is to create system, that is able to detect and clasify human emotion. At the moment exact nam of thesis is unknown, but we can roughly say that there is clear direction of thesis. To summarise, we could describe name of thesis as: "Emotion recognition and clasification using methods of artificial inteligence".
+
 <p align="right">(<a href="#readme-top">į viršų</a>)</p>
 
 
