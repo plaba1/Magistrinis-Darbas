@@ -43,14 +43,15 @@
     <li>
       <a href="#about-the-project">Apie darbą</a>
       <ul>
-        <li><a href="#built-with">Naudojams technologijos</a></li>
+        <li><a href="#built-with">Naudojamos technologijos</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#getting-started">1 semestras</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#prerequisites">Literatūros analizė</a></li>
+        <li><a href="#installation">Projekto paraiška</a></li>
+        <li><a href="#installation">Projektavimo planas</a></li>
       </ul>
     </li>
   </ol>
